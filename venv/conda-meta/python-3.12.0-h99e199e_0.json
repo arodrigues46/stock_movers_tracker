@@ -4,18 +4,18 @@
   "channel": "https://repo.anaconda.com/pkgs/main",
   "constrains": [],
   "depends": [
-    "bzip2 >=1.0.8,<2.0a0",
-    "expat >=2.5.0,<3.0a0",
-    "libffi >=3.4,<4.0a0",
-    "ncurses >=6.4,<7.0a0",
-    "openssl >=3.0.11,<4.0a0",
-    "readline >=8.1.2,<9.0a0",
-    "sqlite >=3.41.2,<4.0a0",
-    "tk >=8.6.12,<8.7.0a0",
+    "pip",
     "tzdata",
-    "xz >=5.4.2,<6.0a0",
     "zlib >=1.2.13,<1.3.0a0",
-    "pip"
+    "bzip2 >=1.0.8,<2.0a0",
+    "libffi >=3.4,<4.0a0",
+    "readline >=8.1.2,<9.0a0",
+    "tk >=8.6.12,<8.7.0a0",
+    "ncurses >=6.4,<7.0a0",
+    "sqlite >=3.41.2,<4.0a0",
+    "xz >=5.4.2,<6.0a0",
+    "openssl >=3.0.11,<4.0a0",
+    "expat >=2.5.0,<3.0a0"
   ],
   "extracted_package_dir": "/opt/anaconda3/pkgs/python-3.12.0-h99e199e_0",
   "files": [
@@ -2035,7 +2035,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_08j2kiy9vk/croot/python-split_1696267008175/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "d9ea9dd33aa69ed74f240a4d1945fc302e470521286a04c6897eae51832435ad",
-        "sha256_in_prefix": "0f957f5284597217284aa080a6bd86041aa2a10eee1a12561a66cfe5bd0cfa4d",
+        "sha256_in_prefix": "67f9935d84af950a04bf7425322d65d1fea7b982a13ddd76a8beaf7846d875a8",
         "size_in_bytes": 6828784
       },
       {
@@ -3551,7 +3551,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_08j2kiy9vk/croot/python-split_1696267008175/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "697c148d7834ae7f82bcc9dadb6139523a1044695152555a257303602c5771a4",
-        "sha256_in_prefix": "8f7d68f9708e953c8832253248928eb29d8ac82c79f02accd704b887ea42d4c2",
+        "sha256_in_prefix": "a5af980e411725f8b1899c28587c70a2dc918edb3ccdf163f7dea76fb5b68a32",
         "size_in_bytes": 6845328
       },
       {
